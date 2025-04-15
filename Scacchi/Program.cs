@@ -10,6 +10,8 @@ namespace Scacchi
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Letsgoski");
+            Console.ReadKey();
         }
     }
 }
