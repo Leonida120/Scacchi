@@ -12,6 +12,7 @@ namespace Scacchi
         {
             Console.WriteLine("Letsgoski");
             Console.WriteLine("gG");
+            Console.WriteLine("Ciao Scacchi!");
             Console.ReadKey();
         }
     }
