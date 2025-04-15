@@ -11,6 +11,7 @@ namespace Scacchi
         static void Main(string[] args)
         {
             Console.WriteLine("Letsgoski");
+            Console.WriteLine("gG");
             Console.ReadKey();
         }
     }
